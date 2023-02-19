@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [http://www.mikrocore.com/](http://www.mikrocore.com/)
 
+- 🔭 I’m currently working on STM32, ESP32, AVR MCUs and ZYNQ UltraScale+ MPSoC
+
 - 💬 Ask me about **C, C++, C#, Python, VHDL**
 
 <h3 align="left">Connect with me:</h3>
