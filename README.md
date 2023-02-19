@@ -28,7 +28,7 @@ I work as an embedded systems engineer in the defense industry.
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" /> I’m working on **STM32, ESP32, AVR MCUs and ZYNQ UltraScale+ MPSoC**
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" /> Ask me about **C, C++, C#, Python, VHDL**
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" /> I regulary write articles on [Blog](http://www.mikrocore.com/){:target="_blank" rel="noopener"}
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" /> I regulary write articles on [Blog](http://www.mikrocore.com/)
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
