@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onur94&label=Profile%20views&color=0e75b6&style=flat" alt="debug" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onur94&rank=-UNKNOWN" alt="Debug" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onur94&rank=-C" alt="Debug" /></a> </p>
 
 - 📝 I regularly write articles on [http://www.mikrocore.com/](http://www.mikrocore.com/)
 
