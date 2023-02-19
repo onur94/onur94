@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Onur</h1>
 <h3 align="center">An embedded system developer from Turkey</h3>
 
-### Glad to see you here! <img src="https://komarev.com/ghpvc/?username=onur94&label=Profile%20views&color=0e75b6&style=flat" alt="debug" />
-
 <p align="left">
+<img src="https://komarev.com/ghpvc/?username=onur94&label=Profile%20views&color=0e75b6&style=flat" alt="debug" />
 <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="debug" />
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onur94&rank=-?" alt="Debug" /></a> </p>
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 - 🔭 I’m working on **STM32, ESP32, AVR MCUs and ZYNQ UltraScale+ MPSoC**
 - 💬 Ask me about **C, C++, C#, Python, VHDL**
