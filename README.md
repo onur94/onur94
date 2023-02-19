@@ -26,8 +26,8 @@ I work as an embedded systems engineer in the defense industry.
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m working on **STM32, ESP32, AVR MCUs and ZYNQ UltraScale+ MPSoC**
-- 💬 Ask me about **C, C++, C#, Python, VHDL**
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" /> I’m working on **STM32, ESP32, AVR MCUs and ZYNQ UltraScale+ MPSoC**
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" /> Ask me about **C, C++, C#, Python, VHDL**
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
