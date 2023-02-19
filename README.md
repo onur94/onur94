@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">An embedded system developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onur94&label=Profile%20views&color=0e75b6&style=flat" alt="debug" />
+<img src="https://komarev.com/ghpvc/?username=onur94&label=Profile%20views&color=0e75b6&style=flat" alt="debug" />
 <p align="left"> <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="debug" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onur94&rank=-?" alt="Debug" /></a> </p>
 
