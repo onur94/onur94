@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [http://www.mikrocore.com/](http://www.mikrocore.com/)
 
-- 💬 Ask me about **C, C++, VHDL**
+- 💬 Ask me about **C, C++, C#, Python, VHDL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
