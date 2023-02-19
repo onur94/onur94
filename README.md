@@ -22,13 +22,11 @@ Here are some ideas to get you started:
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onur94&rank=-?" alt="Debug" /></a> </p>
 
-### Talking about Personal Stuffs: ###
-
 - 🔭 I’m working on **STM32, ESP32, AVR MCUs and ZYNQ UltraScale+ MPSoC**
 - 💬 Ask me about **C, C++, C#, Python, VHDL**
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
-
+**Talking about Personal Stuffs:**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/onurkse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onurkse" height="30" width="40" /></a>
