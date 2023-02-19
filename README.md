@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🔭 I’m working on **STM32, ESP32, AVR MCUs and ZYNQ UltraScale+ MPSoC**
 - 💬 Ask me about **C, C++, C#, Python, VHDL**
 - 
-## Talking about Personal Stuffs: ##
+** Talking about Personal Stuffs: **
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
