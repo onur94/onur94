@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onur94&rank=-?" alt="Debug" /></a> </p>
 
+## Talking about Personal Stuffs:
+
 - 🔭 I’m working on **STM32, ESP32, AVR MCUs and ZYNQ UltraScale+ MPSoC**
 - 💬 Ask me about **C, C++, C#, Python, VHDL**
 
