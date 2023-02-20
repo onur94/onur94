@@ -31,7 +31,7 @@ I work as an embedded systems engineer in the defense industry.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" /> I regulary write articles on [MikroCore](http://www.mikrocore.com/)
 
 **Skills:**
-Embedded System Programming, Debugging, Multitasking, Object Oriented Design
+Electronics, Embedded System, Firmware, Microcontrollers, Object Oriented Design, Multitasking, Debugging, Game Development, 3D Model Design
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
